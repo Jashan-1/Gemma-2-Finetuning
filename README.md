@@ -28,7 +28,8 @@ Welcome to the GEMMA Fine-Tuning project! This repository provides a comprehensi
 The GEMMA Fine-Tuning project aims to provide users with the tools necessary to customize and optimize a pre-trained Google's latest GEMMA model (as per September, 2024) for their unique datasets. By following the structured approach outlined in this repository, users can enhance model performance and achieve better results in their specific applications.
 
 ## Built With
-This project is built using the following technologies:
+I started mapping the programming languages forming its base and then went on to the in-depth exploration of the libraries used. This intentional documentation and headings in the code file not only builds transparency but also becomes a comprehensive reference to the technologies used throughout the development journey.
+
 ### Programming Language: 
 Python
 ### Libraries: 
