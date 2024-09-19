@@ -1,0 +1,6 @@
+!pip install -q -U bitsandbytes==0.43.3
+!pip install -q -U peft==0.12.0
+!pip install -q -U trl==0.10.1
+!pip install -q -U accelerate==0.34.2
+!pip install -q -U datasets==3.0.0
+!pip install -q -U transformers==4.44.2
